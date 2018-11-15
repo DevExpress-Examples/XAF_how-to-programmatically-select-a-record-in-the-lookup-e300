@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[SelectRecordInLookupViewController.cs](./CS/WinSolution.Module.Win/SelectRecordInLookupViewController.cs) (VB: [SelectRecordInLookupViewController.Designer.vb](./VB/WinSolution.Module.Win/SelectRecordInLookupViewController.Designer.vb))**
+* [SelectRecordInLookupViewController.Designer.cs](./CS/WinSolution.Module.Win/SelectRecordInLookupViewController.Designer.cs) (VB: [SelectRecordInLookupViewController.Designer.vb](./VB/WinSolution.Module.Win/SelectRecordInLookupViewController.Designer.vb))
+<!-- default file list end -->
 # How to programmatically select a record in the lookup
 
 
