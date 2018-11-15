@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewController1.cs](./CS/WinSolution.Module.Win/ViewController1.cs) (VB: [ViewController1.vb](./VB/WinSolution.Module.Win/ViewController1.vb))
+* [BusinessObjects.cs](./CS/WinSolution.Module/BusinessObjects.cs) (VB: [BusinessObjects.vb](./VB/WinSolution.Module/BusinessObjects.vb))
+<!-- default file list end -->
 # How to programmatically select a record in the lookup
 
 
